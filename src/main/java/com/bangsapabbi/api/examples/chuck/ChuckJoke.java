@@ -2,7 +2,7 @@
  * Copyright 2014 Azazo
  *
  */
-package com.bangsapabbi.api.examples;
+package com.bangsapabbi.api.examples.chuck;
 
 /**
  * { "type": "success",
